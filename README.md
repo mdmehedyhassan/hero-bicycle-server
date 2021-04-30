@@ -8,13 +8,14 @@ Live site link: https://hero-bicycle.web.app/
 
 ## Client Site 
 
-Client site link: https://github.com/Porgramming-Hero-web-course/complete-website-client-mdmehedyhassan
+Client site link: https://github.com/mdmehedyhassan/hero-bicycle-client
 
 ## Server site 
 
-Server site link: https://github.com/Porgramming-Hero-web-course/complete-website-server-mdmehedyhassan
+Server site link: https://github.com/mdmehedyhassan/hero-bicycle-server
 
 
-### Abut this website
+## Features
 
-This wave site is just a bicycle mechanic. Here is a small problem with the bicycle.
+This website is a bicycle repair. Problems are solved on all types of bicycles here. You can also buy bicycle equipment if you want. If you want you can visit our live site, server site and clean site. Thanks.
+
